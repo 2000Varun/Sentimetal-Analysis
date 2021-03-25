@@ -1,1 +1,1 @@
-# Sentimetal-Analysis
+Classifying tweets as good, bad or neutral
